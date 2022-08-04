@@ -1,6 +1,6 @@
 ## Hey there, I'm **Pedro**! :D
 
-I'm a Brazillian researcher with a **Master's degree in Communications**, and currently, **Full Stack Web Development Student** willing to work with **Back-end**.
+I'm a Brazillian researcher with a **Master's degree in Communications** (University of São Paulo, Brazil), and currently, **Full Stack Web Development Student** willing to work with **Back-end**.
 
 You can get in touch with me at pedronerislc@gmail.com or by <a href="https://www.linkedin.com/in/pedro-nl-caldas/">Linkedin</a>.
 
