@@ -1,6 +1,6 @@
 ## Hey there, I'm **Pedro**! :D
 
-I'm a Brazillian researcher with a **Master's degree in Communications** (University of São Paulo, Brazil), and currently, **Full Stack Web Development Student** willing to work with **Back-end**.
+I'm a Brazillian researcher with a **Master's degree in Communications** (University of São Paulo, Brazil), and currently, **Full Stack Web Developer** willing to work with **Back-end**.
 
 Here on my profile, you can check some of my work done using **Node.js**, **React**, **MySQL**, **Docker**, etc. Make yourself at home!
 
