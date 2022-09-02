@@ -2,7 +2,7 @@
 
 I'm a Brazillian researcher with a **Master's degree in Communications** (University of São Paulo, Brazil), and currently, **Full Stack Web Development** student willing to work with **Back-end**.
 
-Here on my profile, you can check some of my projects done using **Node.js**, **React**, **MySQL**, **Docker**, etc. Make yourself at home!
+Here on my profile, you can check some of my projects done using **Node.js**, **MySQL**, **Docker**, **React**, etc. Make yourself at home!
 
 You can get in touch with me at pedronerislc@gmail.com or by <a href="https://www.linkedin.com/in/pedro-nl-caldas/">Linkedin</a>.
 
